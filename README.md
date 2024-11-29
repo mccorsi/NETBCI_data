@@ -1,7 +1,7 @@
 # NETBCI data
 
 
-Scripts for preperation of data for Network Brain-Computer Interface Dataset (NETBCI). The dataset was collected at the CENIR facility ([www.natmeg.se](https://parisbraininstitute.org/cenir-neuroimaging-platform)) at Paris Brain Institute, France. The dataset is available through EBRAINS (www.ebrains.eu).
+Scripts for preperation of data for Network Brain-Computer Interface Dataset (NETBCI). The dataset was collected at the CENIR facility (cenir-neuroimaging-platform](https://parisbraininstitute.org/cenir-neuroimaging-platform)) at Paris Brain Institute, France. The dataset is available through EBRAINS (www.ebrains.eu).
 
 This repository contains the script for anonymizing data and arranging data according to the MEG-BIDS format.
 
