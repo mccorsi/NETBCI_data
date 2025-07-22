@@ -1,16 +1,9 @@
 # NETBCI data
 
+This repository comprises scripts designed for the preparation and processing of data for the Network Brain-Computer Interface Dataset (NETBCI). The dataset was collected at the  CENIR facility ([cenir-neuroimaging-platform](https://parisbraininstitute.org/cenir-neuroimaging-platform)), located at the Paris Brain Institute, France (CENIR Neuroimaging Platform). It will be made available in the near future through EBRAINS (www.ebrains.eu).
 
-Scripts for preperation of data for Network Brain-Computer Interface Dataset (NETBCI). The dataset was collected at the CENIR facility ([cenir-neuroimaging-platform](https://parisbraininstitute.org/cenir-neuroimaging-platform)) at Paris Brain Institute, France. The dataset is available through EBRAINS (www.ebrains.eu).
+The repository includes scripts for anonymizing data and organizing it in accordance with the M/EEG-BIDS format. For detailed information regarding the NETBCI dataset, please refer to the forthcoming data descriptor.
 
-This repository contains the script for anonymizing data and arranging data according to the MEG-BIDS format.
+Access to the NETBCI data will be provided at the following location, subject to the terms and conditions specified by EBRAINS (details to be announced).
 
-For information about NETBCI please refer to the data descriptor :
-
-    TODO
-
-The NETBCI data is available through at the following location following the terms and conditions provided by EBRAINS:
-
-    TODO
-
-For questions, please contact: marieconstance.corsi@icm-institute.org 
+For any inquiries, please contact: marieconstance.corsi@icm-institute.org
